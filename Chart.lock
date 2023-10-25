@@ -1,0 +1,6 @@
+dependencies:
+- name: lilnginx
+  repository: https://new-org-who-dis.github.io/crts/
+  version: 2.0.0
+digest: sha256:7f74f7e94209734f3960c2dc04d30e5a1c909ba2c275a10de26a29478189fbf4
+generated: "2023-10-25T07:45:52.801217-04:00"
