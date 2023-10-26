@@ -25,5 +25,5 @@ appVersion: "1.16.0"
 
 dependencies:
 - name: lilnginx
-  repository: https://new-org-who-dis.github.io/crts/
+  repository: pinned://new-org-who-dis.github.io/crts/
   version: 2.0.0
